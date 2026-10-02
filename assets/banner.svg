@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos Gómez</title>
+  <desc id="desc">IT Infrastructure, Automation, and Backend Development. Building toward a career in DevOps.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#123b65"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#background)"/>
+  <path d="M850 0V340M950 0V340M1050 0V340M1150 0V340M800 70H1200M800 170H1200M800 270H1200" stroke="#38bdf8" stroke-opacity=".08"/>
+  <rect x="62" y="60" width="52" height="5" rx="2.5" fill="#38bdf8"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="62" y="142" fill="#ffffff" font-size="58" font-weight="700">Carlos Gómez</text>
+    <text x="64" y="193" fill="#bfdbfe" font-size="23">IT Infrastructure · Automation · Backend Development</text>
+    <text x="64" y="247" fill="#7dd3fc" font-size="21">Building toward a career in DevOps</text>
+    <text x="64" y="294" fill="#94aecb" font-size="14" letter-spacing="2">TIJUANA, MEXICO</text>
+  </g>
+  <g fill="none" stroke="#38bdf8" stroke-width="2" opacity=".65">
+    <path d="M888 100H1030V240H1120"/>
+    <rect x="847" y="77" width="80" height="46" rx="8" fill="#102846"/>
+    <rect x="991" y="147" width="78" height="46" rx="8" fill="#102846"/>
+    <rect x="1081" y="217" width="78" height="46" rx="8" fill="#102846"/>
+  </g>
+  <g fill="#bfdbfe" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <text x="887" y="105">NETWORK</text>
+    <text x="1030" y="175">API</text>
+    <text x="1120" y="245">DEPLOY</text>
+  </g>
+</svg>
